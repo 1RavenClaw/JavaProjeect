@@ -1,2 +1,7 @@
 "Story of neha" 
+<<<<<<< HEAD
 changes made by neha
+=======
+changes made by neha
+changes
+>>>>>>> NM_Story
